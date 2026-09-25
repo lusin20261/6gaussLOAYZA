@@ -1,0 +1,5 @@
+1  ser profesor
+2  no tener hijos 
+3  tener buen marido
+4  ayudar amis padres
+5  ser feliz
