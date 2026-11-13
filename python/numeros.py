@@ -1,0 +1,8 @@
+a = input("Ingresa primer número: ")
+b = input("Ingresa segundo número: ")
+a = int(a)
+b = int(b)
+print("La multiplicación es: ",a*b)
+print("la divición es: ",a/b)
+print("la suma es: ",a + b)
+print("la resta es: ",a - b)
